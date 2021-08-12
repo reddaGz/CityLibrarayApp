@@ -1,0 +1,29 @@
+.view_cart_class{
+    display: none;
+    margin-left: 50px;
+}
+.o_view_cart_class{
+    display: none;
+}
+table {
+    border-collapse: collapse;
+    font-family: arial,sans-serif;
+  width: 100%;
+}
+
+td, th {
+    border: 1px solid #cccccc;
+    padding : 8px;
+}
+
+th{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* The parameter even means - background color for even rows*/
+
+tr:hover {
+    background-color: rgba(26, 15, 15, 0.178);
+    color: white;
+}
