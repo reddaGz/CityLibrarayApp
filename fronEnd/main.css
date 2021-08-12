@@ -1,0 +1,25 @@
+.container-a{
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row; 
+     flex-wrap: nowrap;
+}
+.add_book_form{
+    display: block;
+}
+
+.add_book_form{
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row; 
+     flex-wrap: nowrap; 
+}
+.search_menu{
+    display: flex;
+    flex-direction: row; 
+     flex-wrap: nowrap;
+       
+}
+.search_menu button {
+    margin-left: 5px; 
+}
